@@ -1,0 +1,10 @@
+# Entorno virtual
+venv/
+__pycache__/
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Archivos de sistema
+.DS_Store
+*.pyc
